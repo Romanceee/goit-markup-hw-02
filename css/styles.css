@@ -115,6 +115,10 @@ body {
         
 }
 
+.third-section-list {
+    background-color: #FFFFFF;
+}
+
 .third-section .headers {
     font-weight: 500;
         font-size: 20px;
