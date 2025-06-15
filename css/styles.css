@@ -15,7 +15,7 @@ footer {
 }
 
 .third-section {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .fourth-section {
@@ -86,8 +86,8 @@ body {
         font-family: "Roboto", sans-serif;
 }
 
-.button-main:hover, .button-main:hover {
-    background-color: #404BBF
+.button-main:hover, .button-main:focus {
+    background-color: #404BBF;
 }
 
 .titles-second-section {
